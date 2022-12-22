@@ -15,7 +15,9 @@
 
 [Массивы](tutorial/array.md)
 
-[Связанные списки](tutorial/linked_list.md)
+[Односвязный список](tutorial/singly_linked_list.md)
+
+[Двусвязный список](tutorial/doubly_linked_list.md)
 
 [Хеш таблицы](tutorial/hash_table.md)
 
