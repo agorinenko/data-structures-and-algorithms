@@ -45,7 +45,7 @@
 
 [Алгоритмы на строках](tutorial/string_algorithms.md)
 
-[Обход в ширину и глубину](tutorial/bfs_and_dfs.md)
+[Обход в ширину и глубину](tutorial/bfs.md)
 
 ### Используемые ресурсы
 
