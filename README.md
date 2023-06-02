@@ -8,9 +8,9 @@
 кода представлены с использованием Python.
 
 Если вам понравилось содержимое, ставьте звездочку репозиторию на github. 
-https://github.com/agorinenko/data-structures-and-algorithms/
+[https://github.com/agorinenko/data-structures-and-algorithms/](https://github.com/agorinenko/data-structures-and-algorithms/)
 
-Об авторе: https://gorinenko.ru/
+Об авторе: [https://gorinenko.ru/](https://gorinenko.ru/)
 
 ## Оглавление
 
@@ -52,7 +52,7 @@ https://github.com/agorinenko/data-structures-and-algorithms/
 
 [Обход графа в ширину](tutorial/bfs.md)
 
-[Обход графа глубину](tutorial/dfs.md)
+[Обход графа глубину](tutorial/dfs.md) (в работе)
 
 ### Используемые ресурсы
 
