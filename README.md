@@ -29,7 +29,7 @@
 
 [Очередь и стек](tutorial/queue_and_stack.md)
 
-[Деревья](tutorial/tree.md) (в работе)
+[Деревья](tutorial/tree.md)
 
 [Графы](tutorial/graph.md)
 
