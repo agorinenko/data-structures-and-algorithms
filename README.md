@@ -33,7 +33,7 @@
 
 [Графы](tutorial/graph.md)
 
-[Куча](tutorial/heap.md) (в работе)
+[Куча](tutorial/heap.md)
 
 [Очередь с приоритетом](tutorial/heap.md) (в работе)
 
