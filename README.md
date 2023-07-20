@@ -35,9 +35,9 @@
 
 [Куча](tutorial/heap.md)
 
-[Очередь с приоритетом](tutorial/heap.md) (в работе)
+[Очередь с приоритетом](tutorial/priority_queue.md) (в работе)
 
-[Двухсторонняя очередь](tutorial/heap.md) (в работе)
+[Двухсторонняя очередь](tutorial/deque.md) (в работе)
 
 ### Алгоритмы
 
