@@ -31,6 +31,8 @@
 
 [Деревья](tutorial/tree.md)
 
+[Префиксное дерево](tutorial/trie.md) (в работе)
+
 [Графы](tutorial/graph.md)
 
 [Куча](tutorial/heap.md)
@@ -43,11 +45,11 @@
 
 [Бинарный поиск](tutorial/binary_search.md)
 
-[Сортировки](tutorial/sorting.md) (в работе)
-
 [Рекурсия](tutorial/recursion.md) (в работе)
 
-[Динамическое программирование и жадные алгоритмы](tutorial/dynamic_programming.md) (в работе)
+[Динамическое программирование](tutorial/dynamic_programming.md) (в работе)
+
+[Жадные алгоритмы](tutorial/greedy.md) (в работе)
 
 [Скользящее среднее](tutorial/moving_average.md) (в работе)
 
@@ -58,6 +60,20 @@
 [Обход графа в ширину](tutorial/bfs.md)
 
 [Обход графа глубину](tutorial/dfs.md)
+
+[Скользящее окно](tutorial/sliding_window.md) (в работе)
+
+[Bit manipulation](tutorial/bit_manipulation.md) (в работе)
+
+### Сортировки
+
+[Быстрая сортировка](tutorial/quick_sort.md) (в работе)
+
+[Сортировка слиянием](tutorial/merge_sort.md) (в работе)
+
+[Блочная сортировка](tutorial/bucket_sort.md) (в работе)
+
+[Поразрядная сортировка](tutorial/bitwise_sort.md) (в работе)
 
 ### Используемые ресурсы
 
