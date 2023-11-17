@@ -45,7 +45,7 @@
 
 [Бинарный поиск](tutorial/binary_search.md)
 
-[Рекурсия](tutorial/recursion.md) (в работе)
+[Рекурсия](tutorial/recursion.md)
 
 [Динамическое программирование](tutorial/dynamic_programming.md) (в работе)
 
