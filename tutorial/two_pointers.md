@@ -64,6 +64,10 @@ def remove_element(arr: List[int], val: int):
    исключение.
 2. Следует правильно выбрать условие окончания прохода по списку.
 
+Рассмотрим задачу, где учитываются эти особенности.
+
+Оригинал: [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+
 ```python
 def test_has_cycle():
     list_1 = create_list_from_array([3, 2, 0, -4], 1)

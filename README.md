@@ -47,6 +47,8 @@
 
 [Рекурсия](tutorial/recursion.md)
 
+[Разделяй и властвуй](tutorial/divide_and_conquer.md)
+
 [Динамическое программирование](tutorial/dynamic_programming.md) (в работе)
 
 [Жадные алгоритмы](tutorial/greedy.md) (в работе)
