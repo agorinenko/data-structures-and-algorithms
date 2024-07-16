@@ -71,7 +71,7 @@
 
 [Быстрая сортировка](tutorial/quick_sort.md) (в работе)
 
-[Сортировка слиянием](tutorial/merge_sort.md) (в работе)
+[Сортировка слиянием](tutorial/merge_sort.md)
 
 [Блочная сортировка](tutorial/bucket_sort.md) (в работе)
 
