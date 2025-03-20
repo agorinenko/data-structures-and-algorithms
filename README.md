@@ -9,7 +9,12 @@
 использованием Python.
 
 Если вам понравилось содержимое, ставьте звездочку репозиторию на github.
+
 [https://github.com/agorinenko/data-structures-and-algorithms/](https://github.com/agorinenko/data-structures-and-algorithms/)
+
+Примеры алгоритмических задач для успешного прохождения live coding интервью ниже по ссылке 👌
+
+✅ [Подготовка к live coding, algorithm интервью](https://github.com/agorinenko/yandex-interview)
 
 Об авторе: [https://gorinenko.ru/](https://gorinenko.ru/)
 
